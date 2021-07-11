@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Custom-Chrome-Homepage/static/css/main.5491e8a1.chunk.css",
+    "main.js": "/Custom-Chrome-Homepage/static/js/main.a3533898.chunk.js",
+    "main.js.map": "/Custom-Chrome-Homepage/static/js/main.a3533898.chunk.js.map",
+    "runtime-main.js": "/Custom-Chrome-Homepage/static/js/runtime-main.a056183e.js",
+    "runtime-main.js.map": "/Custom-Chrome-Homepage/static/js/runtime-main.a056183e.js.map",
+    "static/js/2.3e2d53d2.chunk.js": "/Custom-Chrome-Homepage/static/js/2.3e2d53d2.chunk.js",
+    "static/js/2.3e2d53d2.chunk.js.map": "/Custom-Chrome-Homepage/static/js/2.3e2d53d2.chunk.js.map",
+    "index.html": "/Custom-Chrome-Homepage/index.html",
+    "static/css/main.5491e8a1.chunk.css.map": "/Custom-Chrome-Homepage/static/css/main.5491e8a1.chunk.css.map",
+    "static/js/2.3e2d53d2.chunk.js.LICENSE.txt": "/Custom-Chrome-Homepage/static/js/2.3e2d53d2.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Custom-Chrome-Homepage/static/media/4.24d26c2a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a056183e.js",
+    "static/js/2.3e2d53d2.chunk.js",
+    "static/css/main.5491e8a1.chunk.css",
+    "static/js/main.a3533898.chunk.js"
+  ]
+}
